@@ -8,24 +8,22 @@ A script to scrap facebook posts and send the updates via an email given the pro
    the source code to verify, which will be bundled
    with this.
 
-2) Run the 'fb_grp_scrapper.exe'.
-
-3) Input the required fields. MAKE SURE THEY'RE CORRECT.
+2) Download everything and keep them in the same folder.
+3) Run the 'fb_grp_scrapper.exe'.
+4) Input the required fields. MAKE SURE THEY'RE CORRECT.
 
 **[Must enable "less secured app access" to use email]**
 
-4) Keep Running the Script in the background.
-
-5) If PC Restarted or Turned off, run it again after
+5) Keep Running the Script in the background.
+6) If PC Restarted or Turned off, run it again after
    booting up the PC.
 
 ======================IMPORTANT======================
 
-6) If you want to run the script for the same group
+7) If you want to run the script for the same group
    again, then no need to change anything just run 
    the exe file.
-
-7) If you want to reuse the script for a different
+8) If you want to reuse the script for a different
    group after running it once, then you have to 
    delete everything in the 'fb_grp_post_ids.txt'.
    Then run the exe file again.
