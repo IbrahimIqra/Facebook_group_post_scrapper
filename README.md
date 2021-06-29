@@ -12,7 +12,7 @@ A script to scrap posts from facebook group and send the updates via emails give
 3) Run the 'fb_grp_scrapper.exe'.
 4) Input the required fields. MAKE SURE THEY'RE CORRECT.
 
-**[Must enable "less secured app access" to use email]**
+**[Must enable "less secured app access" in the sender's gmail account]**
 
 5) Keep Running the Script in the background.
 6) If PC Restarted or Turned off, run it again after
