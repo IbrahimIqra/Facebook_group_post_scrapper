@@ -21,6 +21,7 @@ A script to scrap posts from facebook group and send the updates via emails give
    automatically starts when Windows boots.
 
 ======================IMPORTANT======================
+
 7) If you want to run the script for the same group
    again, then no need to change anything just run 
    the exe file.
@@ -28,6 +29,7 @@ A script to scrap posts from facebook group and send the updates via emails give
    group after running it once, then you have to 
    delete everything in the 'fb_grp_post_ids.txt'.
    Then run the exe file again.
+   
 =====================================================
 
 Cheers
