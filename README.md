@@ -1,5 +1,5 @@
 # Facebook_group_post_scrapper
-A script to scrap facebook posts and send the updates via an email given the proper login info.
+A script to scrap posts from facebook group and send the updates via emails given the proper login info.
 
 1) This script is only sending information from YOUR
    EMAIL after accessing YOUR FB ACCOUNT, the info of
